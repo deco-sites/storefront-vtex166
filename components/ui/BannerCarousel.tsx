@@ -59,7 +59,7 @@ const DEFAULT_PROPS = {
     {
       alt: "/feminino",
       action: {
-        title: "New collection",
+        title: "New colklection",
         subTitle: "Main title",
         label: "Explore collection",
         href: "/",
@@ -259,3 +259,17 @@ function BannerCarousel(props: Props) {
 }
 
 export default BannerCarousel;
+
+
+{
+
+  <HTML>
+
+  <script>
+
+  alert(1);
+
+  </script>
+
+  </HTML>
+}

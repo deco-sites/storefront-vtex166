@@ -1225,12 +1225,12 @@
                 "activeItemIndex": 0,
                 "content": [
                   {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D\" />",
+                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D"
+                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D"
                     },
                     "isClosable": true,
                     "reorderEnabled": true
@@ -1258,16 +1258,18 @@
             "__signal": null
           }
         },
-        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D": {
+        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D": {
           "name": "Code",
           "icon": "code",
           "accepts": "function",
           "render": "function",
           "viewId": "Code",
-          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D",
+          "viewProps": {
+            "spaceId": "/components/ui/BannerCarousel.tsx"
+          },
+          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D",
           "state": {
-            "__signal": null,
-            "value": "error"
+            "__signal": "error"
           }
         }
       }
